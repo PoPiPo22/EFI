@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>blackosx, clovy</string>
+	<key>Description</key>
+	<string>Embedded Theme</string>
+	<key>Year</key>
+	<string>2018</string>
+</dict>
+<key>Background</key>
+<dict>
+    <key>Path</key>
+    <string>wall.png</string>
+    <key>Type</key>
+    <string>Crop</string>
+    <key>Sharp</key>
+    <string>0x80</string>
+    <key>Dark</key>
+    <true/>
+</dict>
+</plist>
